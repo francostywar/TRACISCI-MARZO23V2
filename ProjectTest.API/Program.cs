@@ -17,7 +17,7 @@ app.MapGet("/", () =>
 app.MapPost("/", () =>
 {
     app.Logger.LogInformation("Initial Home Post");
-    return "POST - Net 6 Running ... 06122022-v1.0.0 CI/CD in TRAVIS v1.0.1 AFORO255";
+    return "POST - Net 6 Running ... 06122022-v1.0.0 CI/CD in TRAVIS FRANCO VARGAS v1.0.1 AFORO255";
 });
 
 app.Run($"http://0.0.0.0:{port}");
