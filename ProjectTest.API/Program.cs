@@ -12,8 +12,8 @@ var port = Environment.GetEnvironmentVariable("PORT")??"80";
 app.MapGet("/", () =>
 {
     app.Logger.LogInformation("Initial Home Get");
-    return "GET - Net 6 Running ... 13122022-v1.0.1 CI/CD in KUBERNETES IN AZURE FRANCO VARGAS CHINO v1.0.2 AFORO255";
-});
+    return "GET - Net 6 Running ... 13122022-v1.0.1 CI/CD in KUBERNETES IN AZURE JENKINSFILEV2 v1.0.2 AFORO255";
+})
 
 app.MapPost("/", () =>
 {
