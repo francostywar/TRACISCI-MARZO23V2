@@ -15,8 +15,8 @@ deploy:
     provider: gae
     # Skip cleanup so api_key.py and vendored dependencies are still there
     skip_cleanup: true
-    keyfile: traviscinov22-876e061e94c8.json
-    project: traviscinov22
+    keyfile: travisci-marzo23-7dae9681e272.json
+    project: travisci-marzo23
     version: service-demo
     default: true
     on:

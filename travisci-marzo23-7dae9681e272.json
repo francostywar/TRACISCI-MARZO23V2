@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "travisci-marzo23",
+  "private_key_id": "7dae9681e272f99b51ee7d6bc34afb767d36bef7",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDIJzsWyYfJxVpF\n+9s8trp6X9BpjULp/ckhhUvL9LlVzfcJhhf7SUEDxU0bYaAaSwSj3hfdAP3FWMzG\ncWANpBU0AoXJ0qegzleCWm9FUENEHIWy28lpIhnwuWKzMCtsEPCAc9Ee1ED0fJ6w\n4tOaUX4612PmsoiVmgPPWSpjonJeneWaL4nkNicTtHjp/R8HlKSL6jUHbZrH5xWQ\nPa8zSEKPOr3Y6I3ZS/N6fhnsNL1N15z4yoZgimJlea1/x2M5bXRtZlHIf0aq2ZzI\nifvMzru1g0cCFoLmCBsfhrFAPpv/xEZw2DEnFoMKRyoWHvqKlzMQCrbm2nUiovnV\nj4qg3uuBAgMBAAECggEAHe5j8znrAPzuzYVm2TL4OwGmEIrL5WMK12TwG017A75b\nwYRYhL8FJnO0XrJgN15dkMXPKsERshff85MTyqZtd0wjRrWmVLFWu8sbVbG1hXOA\neOlOOtcbKvkGLga3j58O4B6xuJsEJauXLZuWCj9CkbkRGvg63ahdBn5ujNzHnqdZ\nbL8pxPlZ2hwL0nZYU/D85/nnJwnY7OmbQioaLtRRUNQmkP3fjVqWgAgAFPYwT6Bx\nAXOPZjh+A74qhP4Tts1TkoSZzzIHwxs68Ny8ovE0I1YEb03B1BwLFV82QwceRvvl\nZqrRCErle6gaI7vROM/CXC43XYvzv1MN2609x8KHWQKBgQDnrpmOT810/L8BqZ8T\n7XBmKeSEIUOwxGTmfsU+cKsygvRjH8hfQiijtJKUzfuv/BtTXolVuEFf6oH28k9B\n9mspynESUsqqECfSQWV+VmRj/uZMsbeVpZu6zmF68EfpZ/vTjN+UKRZmGRXs2EEs\n16bocLAL/roShSaE8/udpdf1nQKBgQDdKXA5Z6Jc0X4OD70QfRfaaxdbzEpvk8ZN\nosyHQJUk6ja5QHKefMB/zobiq/z3YeKDJnHo6+O0stYCj5h5vLTHyXFkm/19olXK\nk+XnZ7agk8AhNoTZ5j5YhaQePEjXL5gqurGwb78n3AGCGelttqyo0RmPPNQ4rv4T\n7TZSYfm6NQKBgQDObVJia5Zbqysg9xpHLiMc1CzI0b63THW+ratfNBJFokrP2yy0\nO4VsP2LvdQzRQ+axBKWHG/Ib3R3JgyK9WisnhDn1IpFyr4xbmWsuAxnVwvM92IcD\nrhgwfNx8JoVcYQsO9hDruSQ8+hMAAbsokkkkB+vD9EWkZMDqa12AnJjsPQKBgQCn\n51zfCBHY++cCj+pOyVnBpgoe1FMysHMd39n9WQeh9frD2+zo6/dNUKNRFZfAzFym\nixpx5hyCxD77xL7StXReNU5UPqVNq2AMowopC7E36dQ0ouprb4SnuhYmKkh2rhiN\nYB2kwMHUZg/zEO8KL2SX6d/IwjqwKhKVWEMkemOYfQKBgQDlKQ47rwB67xDB41LA\nm4PwrJCsvFOx8s2dzkBVAj5t6CBc/C+mFhFOrJMt/nhciyH2poN3IH7umNJ/AAX/\nIEeYv3/RaT/UeHC8Bc8soK/rM+n/Lv9D8m3kSZmXu7EzBOxEJkncuYRvfuM6sh9G\nzz5/Mbr2UB3csRKJvj1e/O9mrA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "sa-aforo255@travisci-marzo23.iam.gserviceaccount.com",
+  "client_id": "118264549598111634523",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/sa-aforo255%40travisci-marzo23.iam.gserviceaccount.com"
+}
